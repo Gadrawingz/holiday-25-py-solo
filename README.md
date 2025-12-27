@@ -1,4 +1,4 @@
-# holiday-26-py-base 🎄
+# holiday-25-py-solo 🎄
 
 ### I am Dev Gad IRADUFASHA
 A dedicated space for sharpening my Python fundamentals during the Christmas holiday. This project is a "No-AI" zone, focused on building core logic from scratch to prepare for advanced work in **FastAPI**, **Django**, and **Workforce development**.
